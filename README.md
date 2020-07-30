@@ -5,4 +5,5 @@ We will be using Pandas and SQL to extract, transform, and load our data into a 
 their economic freedom index. 
 
 https://www.kaggle.com/anamvillalpando/world-happiness-ranking
+
 https://www.kaggle.com/lewisduncan93/the-economic-freedom-index

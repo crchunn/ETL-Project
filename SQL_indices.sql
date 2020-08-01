@@ -38,4 +38,5 @@ from econ_index as i
 
 SELECT *
     FROM econ_index INNER JOIN happiness_index ON (econ_index."Country_Name" = happiness_index."Country_Name");
+
 	
